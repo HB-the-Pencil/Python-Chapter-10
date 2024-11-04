@@ -1,0 +1,4 @@
+In Python you can read from text files and write the output to the screen.
+In Python you can create functions that return lists, objects, or any other type of data.
+In Python you can nest lists (they are NOT arrays), dictionaries, or both.
+In Python you can create dictionaries as a way to give things named keys without creating objects.
